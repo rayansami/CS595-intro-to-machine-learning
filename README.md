@@ -25,6 +25,7 @@
 [K-means Algorithm](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/kmeans.py) : Implemented K-means algorithm using data from [A.txt](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/A.txt).
 
 It was required to show different choices of K's(ranging from 2 to 10 with step size 1), calculate SSE and plot SSE against K.
+
 ![Elbow Curve](./Homework%204/Plot-1-1_Elbow_Curve.png "Elbow Curve")
 
 
