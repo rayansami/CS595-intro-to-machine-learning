@@ -21,6 +21,23 @@
 ### [Homework 4](https://github.com/rayansami/CS595-intro-to-machine-learning/tree/master/Homework%204)
 
 [HW Problem Description](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/HW4.pdf) 
+
 [K-means Algorithm](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/kmeans.py) : Implemented K-means algorithm using data from [A.txt](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/A.txt).
 
-![Elbow Curve](./Homework%204/Plot-1-1_Elbow_Curve.png)
+It was required to show different choices of K's(ranging from 2 to 10 with step size 1), calculate SSE and plot SSE against K.
+![Elbow Curve](./Homework%204/Plot-1-1_Elbow_Curve.png "Elbow Curve")
+
+
+
+Run K-means by setting K=3.
+
+![3 Clusters](./Homework%204/Plot-1-2_color_plot_k3.png)
+
+
+[Hierarchical Clustering](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/hierarchical-clustering.py) : Implemented hierarchical clustering using library and showed different results for [MiN Similarity](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/Plot-2-1_MIN_Similarity.png),[MAX Similarity](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/Plot-2-2_MAX_Similarity.png),[Group Average Similarity](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/Plot-2-3_GroupAvg_Similarity.png) and [Centroid Distance Similarity](https://github.com/rayansami/CS595-intro-to-machine-learning/blob/master/Homework%204/Plot-2-4_CentroidDist_Similarity.png) from [B.txt](./Homework%204/B.txt) dataset.
+
+Centroid Distance Similarity
+
+![Centroid Distance Similarity](./Homework%204/Plot-2-4_CentroidDist_Similarity.png)
+
+
